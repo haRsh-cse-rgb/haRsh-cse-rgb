@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🧠 Final year CSE student at **Chandigarh University**
+- 🧠 2024 year CSE graduate at **Chandigarh University**
 - 🛠️ I love building **real-time apps**, working with **Generative AI**, and exploring **DevOps tools**
 - 🔭 Currently working as an **Intern @ Intervue.io**
 - ⚡ Fun Fact: I believe debugging is 80% of coding 😉
