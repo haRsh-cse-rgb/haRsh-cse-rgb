@@ -74,7 +74,7 @@ Complete e-learning platform with:
 
 ---
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haRsh-cse-rgb&show_icons=true&theme=tokyonight" width="49.5%" />
@@ -84,7 +84,7 @@ Complete e-learning platform with:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haRsh-cse-rgb&layout=compact&theme=tokyonight" />
 </p>
 
----
+--- -->
 
 ## 📜 Certifications
 
