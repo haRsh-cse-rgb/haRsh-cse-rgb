@@ -67,10 +67,12 @@ Complete e-learning platform with:
 
 ## 🏆 Achievements
 
-- 🥇 1st Place - Igebra AI Hackathon
-- 🥉 3rd Rank - GFG Weekly Contest
-- 🧩 Solved **500+** DSA problems (Leetcode + GFG)
-- 📅 Led & Organized 5+ events in college
+- 🥇 1st Place – Igebra AI Hackathon  
+- 🥉 3rd Rank – GFG Weekly Contest  
+- 🧠 Solved 500+ DSA problems (LeetCode + GFG)  
+- 🌎 Guinness World Record Participant – Human waving flag formation, Chandigarh University, Aug 2022  
+- 📅 Led & organized 5+ college events  
+
 
 ---
 
@@ -88,6 +90,7 @@ Complete e-learning platform with:
 
 ## 📜 Certifications
 
+- Generative AI - Google
 - AWS Architecting – AWS
 - React – Infowiz
 - DevOps – Coursera
